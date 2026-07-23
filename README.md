@@ -29,6 +29,7 @@ I am pursuing an **M.Tech in Transportation Engineering at NIT Karnataka (NITK)*
 ## 🌐 Socials:
 **[LinkedIn](https://www.linkedin.com/in/himanshurajin/)**
 **[Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu.raj842002@gmail.com) 
 
 # 📊 GitHub Stats:
 
