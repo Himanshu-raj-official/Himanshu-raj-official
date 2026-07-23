@@ -33,7 +33,3 @@ I am pursuing an **M.Tech in Transportation Engineering at NIT Karnataka (NITK)*
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshu-raj-official&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://komarev.com/ghpvc/?username=Himanshu-raj-official&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
