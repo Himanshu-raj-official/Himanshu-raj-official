@@ -26,7 +26,7 @@ I am pursuing an **M.Tech in Transportation Engineering at NIT Karnataka (NITK)*
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 **[LinkedIn](https://www.linkedin.com/in/himanshurajin/)**
 
 
