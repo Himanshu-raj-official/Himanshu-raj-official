@@ -6,7 +6,7 @@ I am pursuing an **M.Tech in Transportation Engineering at NIT Karnataka (NITK)*
 
 # 💻 Tech Stack:
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
-![STAAD.Pro](https://img.shields.io/badge/STAAD.Pro-003B6F?style=flat-square&logoColor=white)
+![STAAD.Pro](https://img.shields.io/badge/STAAD.Pro-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=flat-square&logo=brain&logoColor=white)
